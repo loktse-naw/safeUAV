@@ -1,0 +1,138 @@
+schema_version: 2
+implementation:
+  version: p1-motion-residual-v1.0.0
+scenario:
+  area_m:
+  - 0.0
+  - 1000.0
+  - 0.0
+  - 1000.0
+  altitude_m: 100.0
+  start_m:
+  - 100.0
+  - 100.0
+  goal_m:
+  - 900.0
+  - 900.0
+  bob_m:
+  - 750.0
+  - 350.0
+  willie_m:
+  - 350.0
+  - 650.0
+  nfz_center_m:
+  - 500.0
+  - 500.0
+  nfz_radius_m: 120.0
+  nfz_margin_m: 20.0
+  terminal_tolerance_m: 1.0
+time:
+  slots: 100
+  slot_s: 1.0
+  tx_duty: 0.2
+mobility:
+  max_speed_mps: 20.0
+  motion_action_mode: reference_residual
+  residual_step_fraction: 0.25
+channel:
+  bandwidth_hz: 1000000.0
+  reference_gain_db: -30.0
+  pathloss_ab: 2.2
+  pathloss_aw: 2.2
+  pathloss_wb: 2.7
+  rician_k_db: 10.0
+  noise_psd_dbm_hz: -174.0
+  noise_figure_db: 9.0
+  channel_nmse_db: -20.0
+  feedback_error_db: 0.0
+  feedback_mode: exact_one_slot_delayed
+  willie_location_error_m: 25.0
+  alice_location_error_at_willie_m: 25.0
+power:
+  alice_peak_w: 1.0
+  alice_fixed_w: 0.2
+  alice_radiated_budget_j: 4.0
+  willie_peak_w: 1.0
+  willie_budget_j: 6.0
+  willie_uniform_w: 0.3
+  self_interference_db: -110.0
+  action_mapping: remaining_budget_centered
+energy:
+  alice_battery_j: 18000.0
+  pa_efficiency: 0.35
+  circuit_power_w: 1.0
+  p0_w: 79.86
+  pi_w: 88.63
+  rotor_tip_speed_mps: 120.0
+  induced_velocity_mps: 4.03
+  fuselage_drag_ratio: 0.6
+  air_density_kg_m3: 1.225
+  rotor_solidity: 0.05
+  rotor_disc_area_m2: 0.503
+metric:
+  secrecy_target_bpshz: 0.5
+  episode_target_bpshz: 0.5
+environment:
+  fading: true
+  hard_constraints: true
+  failure_reward: 0.0
+  geometry_epsilon_m: 0.001
+  path_discretization_clearance_m: 1.0
+  action_search_scales:
+  - 1.0
+  - 0.75
+  - 0.5
+  - 0.25
+  - 0.0
+sources:
+  model: feedback/04_P1主模型冻结稿.md
+  experiment_matrix: feedback/05_P1假设与实验矩阵.md
+  external_dataset: null
+  note: Parameters are provisional simulation values, not field measurements.
+diagnostics:
+  monte_carlo_samples: 512
+  monte_carlo_seed: 73001
+  willie_power_grid_points: 51
+  alice_power_grid_w:
+  - 0.0
+  - 0.05
+  - 0.2
+  - 0.5
+  - 1.0
+evaluation:
+  old_regression_seeds_start: 1001
+  old_regression_episodes: 30
+  development_seeds_start: 20001
+  development_episodes: 30
+  final_test_seeds_start: 50001
+  final_test_episodes: 100
+  final_test_status: reserved_not_used
+training:
+  train_seeds:
+  - 11001
+  - 11002
+  - 11003
+  development_seeds_start: 20001
+  development_episodes: 30
+  total_timesteps: 32768
+  benchmark_timesteps: 5000
+  n_steps: 512
+  batch_size: 128
+  n_epochs: 5
+  learning_rate: 0.0003
+  gamma: 1.0
+  gae_lambda: 0.95
+  ent_coef: 0.01
+  policy_layers:
+  - 64
+  - 64
+  attack_rule: uniform
+  device: cpu
+  methods:
+  - B00
+  - B01
+  - B10
+  - B11
+  checkpoint_rule: final_after_fixed_budget_no_selection
+  note: Current-state feasible reference displacement plus residual of at most 4 m
+    per slot; all other training settings inherit the controlled rerun.

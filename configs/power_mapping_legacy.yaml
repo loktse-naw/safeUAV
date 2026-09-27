@@ -1,0 +1,6 @@
+extends: controlled_rerun.yaml
+power:
+  action_mapping: legacy_affine
+training:
+  methods: [B01]
+  note: Single-factor legacy power-mapping comparator for B01.

@@ -1,0 +1,24 @@
+{
+  "revision": "report-only-rounding-r1",
+  "revised_utc": "2026-09-27T08:24:18+00:00",
+  "reason": "Two displayed inverse-map rounding values were corrected after the first report seal; preserve first sealed bytes",
+  "protocol_changed": false,
+  "new_experiment_interactions": 0,
+  "protocol_payload_sha256": "c5788b711a6d5792bcd975956d19610a2e2f242638349f5fcfc78defc58ff442",
+  "original_lock_sha256": "1990d2e6d2d8a082cc495c2d96a28d24cf8bbf2860454223fd2662d1347c7a97",
+  "original_report_sha256": "f82a25217b907e9b7cac2febd00e82b331a8e3e077e2d2c6228abae72035a6d4",
+  "delivered_report_sha256": "4d38c1c104dd819e9fd32c3a4ce855ee0392c4d489e2f396a20f4e501cee66ea",
+  "erratum_source_sha256": "e68d801a426b59305a1f442303dfb41d81c817d3e25f44e5f5f7b2c760ffd8f0",
+  "corrections": [
+    {
+      "power_w": 0.02,
+      "old_display": -0.11864,
+      "new_display": -0.11865
+    },
+    {
+      "power_w": 0.3,
+      "old_display": 0.65217,
+      "new_display": 0.65214
+    }
+  ]
+}

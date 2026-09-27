@@ -1,0 +1,111 @@
+{
+  "protocol_id": "p1-adaptive-rules-preregister-v1",
+  "locked_utc": "2026-09-27T02:45:29+00:00",
+  "status": "protocol_locked_evaluation_not_started",
+  "config_digest": "e9161b54ca242e4f",
+  "resolved_config_sha256": "f6393eba3d6187068e1614d99170fc3acb498daa5ea764f7f971a3376277e0eb",
+  "models": {
+    "11001": {
+      "path": "results/motion_residual_v1_32768/models/B10_seed11001.zip",
+      "sha256": "382f6291c9ff61652e5e03cdce41d2d99cc5fde15fcbc5401729fa297c9f4e26",
+      "training_transitions": 32768,
+      "checkpoint": "budget_end_no_selection"
+    },
+    "11002": {
+      "path": "results/motion_residual_v1_32768/models/B10_seed11002.zip",
+      "sha256": "e5545922a0a8c8d81bb5be125a59ab7362e6e58547dd98a41eb1dc305fbbb4a9",
+      "training_transitions": 32768,
+      "checkpoint": "budget_end_no_selection"
+    },
+    "11003": {
+      "path": "results/motion_residual_v1_32768/models/B10_seed11003.zip",
+      "sha256": "b371255cb309de8e2889c4aec06b8f4de1f41b92677b753f41480abc01885ff2",
+      "training_transitions": 32768,
+      "checkpoint": "budget_end_no_selection"
+    }
+  },
+  "base_source_hashes": {
+    "src/securelink/__init__.py": "a48b188de05254fd6a8f7f948d32af7b0d55097f27b0436af6a49f3ad0ea4df7",
+    "src/securelink/config.py": "613e3f000431a4755b2a5eaf87e553b747299d109254789fa0f47de3697b51ed",
+    "src/securelink/environment.py": "b237240516e8c05ff6264fc802544bab577fd34143ddc6d670189373bdf38efe",
+    "src/securelink/evaluation.py": "fc8eb77d26502de06476243d62af1a025d42f663653a90f4709343c089d81adf",
+    "src/securelink/geometry.py": "f7e0cdced5658696bc9c4555b5300e21fae2d597447fa2f220a79a5a9c076125",
+    "src/securelink/physics.py": "10937016bf5f1b056b8862b65e426dd8e6377c32d8d2089c1d7ed15a7183d73d",
+    "src/securelink/seeding.py": "9ada41d6eb70f4e89d46e54a7b0d5807648ca8b32c20e7f7477bb3d0d8454ccd",
+    "src/securelink/system_info.py": "15a620534723a93fb92349f09bb7a80347d6d393ec375fb78216834a2c6cb07c",
+    "scripts/run_attack_pressure_scan.py": "ad951b1223be7a45a2e1756bd8e9eda37067771c744eb329de9e9cd73919987a",
+    "scripts/run_attack_privileged_fine.py": "db32ab1bb0f7e5daada4b66d3ef9a6b2ae1917c135ccb71fef40ba3623c82b12",
+    "protocols/adaptive_rules_v1/statistics_v1.py": "db59a215ff712504b620569fa2a337fafecfac4982527b807421926b6249ae4e",
+    "protocols/adaptive_rules_v1/build_protocol_lock.py": "504ca04c7c8a22ef2d404abe4b8feea500e874f9cda8a4090019a8f9792e1e71"
+  },
+  "candidate_catalog_sha256": "b4eb9adb4de589bf5db826701d76f8f309d2eccdbb1a9179f94ddb599ac7beb8",
+  "scenario_registry_sha256": "ec1eb7660bf20d0e67ac02e3f5709b93002fe6de43c84e9edbc7e8177145748f",
+  "usage_audit_sha256": "dae09c2f85b57c0d2fdf4fd1979361d537854dcf3926a2df6ceeb7812e6dc721",
+  "white_list": "仅时隙序号、剩余时隙、自身预算/峰值、带 25 m σ 的 Alice 位置估计。",
+  "position_contract": {
+    "delay_slots": 0,
+    "sigma_m": 25,
+    "coordinates": "current_pre_move_communication_position",
+    "each_real_slot_calls_allowed_observation_once": true,
+    "random_switch_rng_separate_from_location_rng": true
+  },
+  "baselines": [
+    "F01_low_0p002",
+    "F02_silent",
+    "F03_uniform_0p3",
+    "F04_frontload",
+    "F05_random"
+  ],
+  "selection": {
+    "models_equal_weight": true,
+    "scenarios_equal_weight": true,
+    "family_candidates": 12,
+    "family_count": 3,
+    "total_new_candidates": 36,
+    "tie_tolerance_bpshz": 1e-08,
+    "tie_break": "lexicographic_id",
+    "overall_pool": "three family winners plus five frozen baselines",
+    "freeze_output": "selection_lock.json required before confirmation"
+  },
+  "posthoc_constant_grid_w": [
+    0,
+    0.0005,
+    0.001,
+    0.0015,
+    0.002,
+    0.003,
+    0.004,
+    0.005,
+    0.0075,
+    0.01,
+    0.015,
+    0.02,
+    0.03,
+    0.05,
+    0.075,
+    0.1,
+    0.15,
+    0.2,
+    0.3
+  ],
+  "primary": {
+    "delta_bpshz": 0.005,
+    "q_threshold": 0.8,
+    "bootstrap": "paired_scenarios_shared_across_fixed_three_models",
+    "replicates": 10000,
+    "confirm_seed": 94201,
+    "final_seed": 94202,
+    "ratio_nonpositive_draw_policy": "insufficient_evidence_never_filter_or_clip"
+  },
+  "planned_task3_upper_slots": {
+    "selection": 369000,
+    "confirmation_B10": 840000,
+    "confirmation_B00_auxiliary": 280000,
+    "total": 1489000
+  },
+  "new_training_transitions": 0,
+  "evaluation_transitions_this_task": 0,
+  "final_test_status": "reserved_not_used",
+  "execution_code_gate": "Task3 driver/adapters must pass frozen contract checks and be hash-sealed before selection; no physical/defender source change allowed",
+  "final_scheme_gate": "Future W1 hashes and executable launch manifest must be sealed before any final scenario is drawn; this registration does not authorize final evaluation"
+}

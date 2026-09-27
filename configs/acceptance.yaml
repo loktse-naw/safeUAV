@@ -1,0 +1,14 @@
+extends: base.yaml
+diagnostics:
+  monte_carlo_samples: 512
+  monte_carlo_seed: 73001
+  willie_power_grid_points: 51
+  alice_power_grid_w: [0.0, 0.05, 0.2, 0.5, 1.0]
+evaluation:
+  old_regression_seeds_start: 1001
+  old_regression_episodes: 30
+  development_seeds_start: 20001
+  development_episodes: 30
+  final_test_seeds_start: 50001
+  final_test_episodes: 100
+  final_test_status: reserved_not_used

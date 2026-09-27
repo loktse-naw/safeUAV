@@ -1,0 +1,8 @@
+extends: controlled_rerun.yaml
+implementation:
+  version: p1-motion-residual-v1.0.0
+mobility:
+  motion_action_mode: reference_residual
+  residual_step_fraction: 0.25
+training:
+  note: Current-state feasible reference displacement plus residual of at most 4 m per slot; all other training settings inherit the controlled rerun.

@@ -1,0 +1,20 @@
+extends: base.yaml
+training:
+  train_seeds: [11, 23, 37]
+  test_seeds_start: 1001
+  test_episodes: 30
+  total_timesteps: 30000
+  benchmark_timesteps: 5000
+  n_steps: 512
+  batch_size: 128
+  n_epochs: 5
+  learning_rate: 0.0003
+  gamma: 1.0
+  gae_lambda: 0.95
+  ent_coef: 0.01
+  policy_layers: [64, 64]
+  attack_rule: uniform
+  device: auto
+  methods: [B00, B01, B10, B11]
+  note: Short prototype budget; not publication-scale.
+

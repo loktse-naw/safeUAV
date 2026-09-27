@@ -1,0 +1,17 @@
+{
+  "locked_utc": "2026-09-27T08:22:20+00:00",
+  "protocol_payload_sha256": "c5788b711a6d5792bcd975956d19610a2e2f242638349f5fcfc78defc58ff442",
+  "report_sha256": "f82a25217b907e9b7cac2febd00e82b331a8e3e077e2d2c6228abae72035a6d4",
+  "files": {
+    "w1_config.json": "09940cf8b7431111ae074d25a22b563f25666cc14386c29ff355c6c6af94c4a9",
+    "scenario_registry.json": "47225e07c11331bd591180860c0cf6dae14b4f0a8b3b27b1dc516f938603711e",
+    "scenario_usage_audit.json": "09458b95598ad064389fc06cc070e0f25fac480a899464bc540e529ad309cab5",
+    "resolved_config.yaml": "f6393eba3d6187068e1614d99170fc3acb498daa5ea764f7f971a3376277e0eb",
+    "action_mapping_reference.json": "3fb594d3dc47f7000f6625ef7795a8a32384e9427389143653ef370fba169ea0",
+    "statistics_v1.py": "2b2c5d93aeda3a42e52c9934832ce2840519caae0064b3285b844b89f5113ad4",
+    "fixed_defender_statistics_v1.py": "db59a215ff712504b620569fa2a337fafecfac4982527b807421926b6249ae4e",
+    "build_protocol_lock.py": "481e0f8876c81c98b79bacc519b724c9106866514a5917f1d79640884b4a00c0",
+    "protocol_payload.json": "c5788b711a6d5792bcd975956d19610a2e2f242638349f5fcfc78defc58ff442"
+  },
+  "status": "protocol_locked_no_experiment_executed"
+}

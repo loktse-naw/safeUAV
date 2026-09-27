@@ -1,0 +1,93 @@
+{
+  "protocol_id": "p1-w1-admission-v1",
+  "locked_utc": "2026-09-27T08:22:20+00:00",
+  "admission_branch": {
+    "L": 0.5178266662721552,
+    "A": 0.4736284033909734,
+    "P": 0.33011677710008813,
+    "D": 0.1877098891720671,
+    "D_ci95": [
+      0.1830516953081114,
+      0.1924023303581523
+    ],
+    "delta": 0.005,
+    "q_threshold": 0.8,
+    "bootstrap_replicates": 10000,
+    "bootstrap_seed": 94201,
+    "q": 0.23546049212498807,
+    "q_ci95": [
+      0.2053640432555734,
+      0.2653962866089177
+    ],
+    "branch": "may_prepare_limited_W1_protocol",
+    "A_id": "T10",
+    "selection_lock_sha256": "118b57496975e0c256c2da49d2645f21ffc356f5c3098184af0c5c7470d9d545",
+    "protocol_payload_sha256": "b1323dd096b026858e531bcd3f4fbfe2e74f41153aa2bdc8444ed2d8975c61e5",
+    "evaluation_scope": "fixed three B10, nominal -110 dB"
+  },
+  "input_hashes": {
+    "pytorch_code/src/securelink/__init__.py": "a48b188de05254fd6a8f7f948d32af7b0d55097f27b0436af6a49f3ad0ea4df7",
+    "pytorch_code/src/securelink/config.py": "613e3f000431a4755b2a5eaf87e553b747299d109254789fa0f47de3697b51ed",
+    "pytorch_code/src/securelink/environment.py": "b237240516e8c05ff6264fc802544bab577fd34143ddc6d670189373bdf38efe",
+    "pytorch_code/src/securelink/evaluation.py": "fc8eb77d26502de06476243d62af1a025d42f663653a90f4709343c089d81adf",
+    "pytorch_code/src/securelink/geometry.py": "f7e0cdced5658696bc9c4555b5300e21fae2d597447fa2f220a79a5a9c076125",
+    "pytorch_code/src/securelink/physics.py": "10937016bf5f1b056b8862b65e426dd8e6377c32d8d2089c1d7ed15a7183d73d",
+    "pytorch_code/src/securelink/seeding.py": "9ada41d6eb70f4e89d46e54a7b0d5807648ca8b32c20e7f7477bb3d0d8454ccd",
+    "pytorch_code/src/securelink/system_info.py": "15a620534723a93fb92349f09bb7a80347d6d393ec375fb78216834a2c6cb07c",
+    "pytorch_code/scripts/run_attack_pressure_scan.py": "ad951b1223be7a45a2e1756bd8e9eda37067771c744eb329de9e9cd73919987a",
+    "pytorch_code/scripts/run_attack_privileged_fine.py": "db32ab1bb0f7e5daada4b66d3ef9a6b2ae1917c135ccb71fef40ba3623c82b12",
+    "pytorch_code/protocols/adaptive_rules_v1/statistics_v1.py": "db59a215ff712504b620569fa2a337fafecfac4982527b807421926b6249ae4e",
+    "pytorch_code/protocols/adaptive_rules_v1/build_protocol_lock.py": "504ca04c7c8a22ef2d404abe4b8feea500e874f9cda8a4090019a8f9792e1e71",
+    "guide/005_P1自适应规则基线与W1准入判定.md": "2f12a3ea5ca8aa53452f841fa6ce5f9c603bc1c5daf5a9b0604595c31ab55ea1",
+    "feedback/14_P1同信息自适应规则评估.md": "165ca00d5fd74fced778a1a4d6190e4054ade5d1d5c90dca51eac5bccd575c86",
+    "pytorch_code/protocols/adaptive_rules_v1/protocol_payload.json": "b1323dd096b026858e531bcd3f4fbfe2e74f41153aa2bdc8444ed2d8975c61e5",
+    "pytorch_code/protocols/adaptive_rules_v1/lock_manifest.json": "dfb78b20f228cf6c500fe1a5efeedb8ee9700cdfcaed773bf4f0d28d640020e0",
+    "pytorch_code/results/adaptive_rules_v1/branch_result.json": "a5abd3a8c06d0b06a99a399d36258ccb7904b2522f3663beaeaafdefb05a3d16",
+    "pytorch_code/results/adaptive_rules_v1/result_manifest.json": "f6c69728648beec19a3698e40ab77b59dd290bcbc4a4e76b08c5be2be589a946",
+    "pytorch_code/results/adaptive_rules_v1/delivery_manifest.json": "25bf325b85f91ba959775af558ed9fa52eedd4dcb5fb64aa9236a7ef7260f727",
+    "pytorch_code/results/adaptive_rules_v1/selection_lock.json": "118b57496975e0c256c2da49d2645f21ffc356f5c3098184af0c5c7470d9d545",
+    "pytorch_code/scripts/run_d1.py": "50cd3db71c513ff1f78837cf6242000609bbb4c602ac9f14ed5f036d4042d4c6",
+    "pytorch_code/scripts/adaptive_rule_adapter.py": "182f7f813acedc59c6f841d729ac6e9efc113800046c51f90bffe72c7fc139b0",
+    "pytorch_code/scripts/run_adaptive_rules_v1.py": "095afaf821c3ef36b44760a2f053dc33449aad5dc5539d8535a7b1029ba40380",
+    "installed/ppo.py": "9f8860ceeb9d81952178daf3fc9da8c685eee4a7b0337fb72a16f736587df3b4",
+    "installed/policies.py": "28a7b69ef3c3d7ebb5a3dad17980165c77ee7f0b6d30b9371d58b1499d670751"
+  },
+  "models": {
+    "11001": {
+      "path": "results/motion_residual_v1_32768/models/B10_seed11001.zip",
+      "sha256": "382f6291c9ff61652e5e03cdce41d2d99cc5fde15fcbc5401729fa297c9f4e26",
+      "training_transitions": 32768,
+      "checkpoint": "budget_end_no_selection"
+    },
+    "11002": {
+      "path": "results/motion_residual_v1_32768/models/B10_seed11002.zip",
+      "sha256": "e5545922a0a8c8d81bb5be125a59ab7362e6e58547dd98a41eb1dc305fbbb4a9",
+      "training_transitions": 32768,
+      "checkpoint": "budget_end_no_selection"
+    },
+    "11003": {
+      "path": "results/motion_residual_v1_32768/models/B10_seed11003.zip",
+      "sha256": "b371255cb309de8e2889c4aec06b8f4de1f41b92677b753f41480abc01885ff2",
+      "training_transitions": 32768,
+      "checkpoint": "budget_end_no_selection"
+    }
+  },
+  "artifacts": {
+    "w1_config.json": "09940cf8b7431111ae074d25a22b563f25666cc14386c29ff355c6c6af94c4a9",
+    "scenario_registry.json": "47225e07c11331bd591180860c0cf6dae14b4f0a8b3b27b1dc516f938603711e",
+    "scenario_usage_audit.json": "09458b95598ad064389fc06cc070e0f25fac480a899464bc540e529ad309cab5",
+    "resolved_config.yaml": "f6393eba3d6187068e1614d99170fc3acb498daa5ea764f7f971a3376277e0eb",
+    "action_mapping_reference.json": "3fb594d3dc47f7000f6625ef7795a8a32384e9427389143653ef370fba169ea0",
+    "statistics_v1.py": "2b2c5d93aeda3a42e52c9934832ce2840519caae0064b3285b844b89f5113ad4",
+    "fixed_defender_statistics_v1.py": "db59a215ff712504b620569fa2a337fafecfac4982527b807421926b6249ae4e",
+    "build_protocol_lock.py": "481e0f8876c81c98b79bacc519b724c9106866514a5917f1d79640884b4a00c0"
+  },
+  "current_training_transitions": 0,
+  "current_evaluation_transitions": 0,
+  "final_test_transitions": 0,
+  "task14_prior_cost": {
+    "episodes": 14890,
+    "real_transitions": 1489000,
+    "hard_violations": 0
+  }
+}

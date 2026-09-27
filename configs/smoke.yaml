@@ -1,0 +1,10 @@
+extends: prototype.yaml
+training:
+  train_seeds: [11]
+  test_seeds_start: 1001
+  test_episodes: 3
+  total_timesteps: 1024
+  benchmark_timesteps: 512
+  methods: [B00, B11]
+  device: cpu
+  note: Interface smoke test only; never use as a research result.

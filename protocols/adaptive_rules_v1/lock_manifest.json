@@ -1,0 +1,22 @@
+{
+  "protocol_id": "p1-adaptive-rules-preregister-v1",
+  "locked_utc": "2026-09-27T02:45:29+00:00",
+  "protocol_payload_sha256": "b1323dd096b026858e531bcd3f4fbfe2e74f41153aa2bdc8444ed2d8975c61e5",
+  "report_path": "feedback/13_P1自适应规则预注册与测试协议.md",
+  "report_sha256": "a9f65e3f3ffa63ff8be3f57b716e8f1b5d233ead68b09f70cc62b9e2fc12c398",
+  "files": {
+    "build_protocol_lock.py": "504ca04c7c8a22ef2d404abe4b8feea500e874f9cda8a4090019a8f9792e1e71",
+    "candidate_catalog.json": "b4eb9adb4de589bf5db826701d76f8f309d2eccdbb1a9179f94ddb599ac7beb8",
+    "frozen_sources.zip": "3e6c0e6dc4ffaeccce11a942209981e22e5db6a0188ed621b650151b22c934e4",
+    "protocol_payload.json": "b1323dd096b026858e531bcd3f4fbfe2e74f41153aa2bdc8444ed2d8975c61e5",
+    "resolved_config.yaml": "f6393eba3d6187068e1614d99170fc3acb498daa5ea764f7f971a3376277e0eb",
+    "scenario_registry.json": "ec1eb7660bf20d0e67ac02e3f5709b93002fe6de43c84e9edbc7e8177145748f",
+    "scenario_usage_audit.json": "dae09c2f85b57c0d2fdf4fd1979361d537854dcf3926a2df6ceeb7812e6dc721",
+    "statistics_v1.py": "db59a215ff712504b620569fa2a337fafecfac4982527b807421926b6249ae4e"
+  },
+  "model_hashes_verified": true,
+  "scenario_record_hits": 0,
+  "environments_created": 0,
+  "new_training_transitions": 0,
+  "new_evaluation_transitions": 0
+}

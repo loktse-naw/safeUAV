@@ -1,0 +1,8512 @@
+[
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31001,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31001",
+    "fingerprint": "8624bf69b671079d4ccbb8f599b27b06",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31001
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31001",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31001
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31002,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31002",
+    "fingerprint": "12d7038869ccc3cf4558b6db1fbef225",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31002
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31002",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31002
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31003,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31003",
+    "fingerprint": "522971cf7e523c7dc31df3b0fa43b862",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31003
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31003",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31003
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31004,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31004",
+    "fingerprint": "6477f6b5bb7374a0c2c137b37b6487f5",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31004
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31004",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31004
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31005,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31005",
+    "fingerprint": "5f593b1806650e7faa964edd9cce6f87",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31005
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31005",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31005
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31006,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31006",
+    "fingerprint": "786b3dd1d78b77666634871446923817",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31006
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31006",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31006
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31007,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31007",
+    "fingerprint": "b43ad37344429a56fb5c3a94e57ea562",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31007
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31007",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31007
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31008,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31008",
+    "fingerprint": "a6ad3c72d1f85e46f1d8f624dcf7c99c",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31008
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31008",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31008
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31009,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31009",
+    "fingerprint": "a1ca3d8a8b76760a2ceb50c327f6f545",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31009
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31009",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31009
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31010,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31010",
+    "fingerprint": "77d7b0250d61f29f0d833c61a073bc4d",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31010
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31010",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31010
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31011,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31011",
+    "fingerprint": "731f6598b1014a10826a232eef01a4a9",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31011
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31011",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31011
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31012,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31012",
+    "fingerprint": "a09ccca5a1b166e594e41e218f94bb5a",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31012
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31012",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31012
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31013,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31013",
+    "fingerprint": "6d246f1004689a26a40f419bc2ac8141",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31013
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31013",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31013
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31014,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31014",
+    "fingerprint": "8e88897d3ef7aaf662a493facaae5cb5",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31014
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31014",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31014
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31015,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31015",
+    "fingerprint": "8608db68e39d930d4110966fc55e3171",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31015
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31015",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31015
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31016,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31016",
+    "fingerprint": "c0beca80629542738629435f84c78149",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31016
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31016",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31016
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31017,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31017",
+    "fingerprint": "131aee16c9d63e18d573a0eeeb442242",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31017
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31017",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31017
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31018,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31018",
+    "fingerprint": "307a4243f7d9af05eaa77b7eebf20023",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31018
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31018",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31018
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31019,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31019",
+    "fingerprint": "2e0f292049a394d3921ce4b45ee42a0c",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31019
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31019",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31019
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31020,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31020",
+    "fingerprint": "f56d53f9ba1694019803e63169c0959e",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31020
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31020",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31020
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31021,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31021",
+    "fingerprint": "bea86e2c0be0027807ce754e6209bc70",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31021
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31021",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31021
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31022,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31022",
+    "fingerprint": "22602bddaaefc47c91962c1562c5273b",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31022
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31022",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31022
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31023,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31023",
+    "fingerprint": "adf8adf85605cdbf32503c7b7b86dc7b",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31023
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31023",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31023
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31024,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31024",
+    "fingerprint": "050e9c6118b60fc6418df9eb21dfa3e8",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31024
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31024",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31024
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31025,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31025",
+    "fingerprint": "e0ea78602925df1f9db2a0c8204bc600",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31025
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31025",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31025
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31026,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31026",
+    "fingerprint": "69d4b692142427ded22d81b5dd16ea5a",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31026
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31026",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31026
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31027,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31027",
+    "fingerprint": "6ca4a98e2bd266eb97301bd877e61d87",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31027
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31027",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31027
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31028,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31028",
+    "fingerprint": "7dd4551a773da8723848e9f7d2d7e7e7",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31028
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31028",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31028
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31029,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31029",
+    "fingerprint": "e1e0425d8e75c543a4bd2123d8cfe72f",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31029
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31029",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31029
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "selection",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_select_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 31030,
+    "key": "v2:p1_rule_select_v1:run=0:worker=0:episode=0:scenario=31030",
+    "fingerprint": "cf2a32849529d01d2bf71958b3e10b2b",
+    "root_entropy": [
+      2,
+      4271123859,
+      0,
+      0,
+      0,
+      1,
+      31030
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_select_v1_bangbang:run=0:worker=0:episode=0:scenario=31030",
+    "random_switch_entropy": [
+      2,
+      2627274594,
+      0,
+      0,
+      0,
+      1,
+      31030
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32001,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32001",
+    "fingerprint": "c0890bc0cccf0746cf43efb1cbd24a7c",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32001
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32001",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32001
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32002,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32002",
+    "fingerprint": "033cc098ac21be686990b57ab82b7ef3",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32002
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32002",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32002
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32003,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32003",
+    "fingerprint": "da33628217a6a48af015e529a5d9696d",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32003
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32003",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32003
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32004,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32004",
+    "fingerprint": "53bf9e8d5b92cbbc0b685c331c68efb2",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32004
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32004",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32004
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32005,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32005",
+    "fingerprint": "dce2e422d91e43276c6bbbebf3c707a8",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32005
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32005",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32005
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32006,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32006",
+    "fingerprint": "5360aa0552d4238a03201ae94e4f8423",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32006
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32006",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32006
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32007,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32007",
+    "fingerprint": "f124fe371cadfd38dae0fc59e0136129",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32007
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32007",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32007
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32008,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32008",
+    "fingerprint": "33ab3f1502edb83bada2751a98303e3d",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32008
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32008",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32008
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32009,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32009",
+    "fingerprint": "999aa3219f751bb58a5e1a55ef5f0606",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32009
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32009",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32009
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32010,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32010",
+    "fingerprint": "912bce68eede9ea31f937782f4cc35f3",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32010
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32010",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32010
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32011,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32011",
+    "fingerprint": "c5f7d7310bf3106d9e090f52ac38a82b",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32011
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32011",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32011
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32012,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32012",
+    "fingerprint": "3c1bebe49d0acc0733c4051d41ac1253",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32012
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32012",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32012
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32013,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32013",
+    "fingerprint": "4ff813f87bd2fda607e891e7d9b289f2",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32013
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32013",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32013
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32014,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32014",
+    "fingerprint": "49083d3a3f618960dd8384944c7f9b30",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32014
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32014",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32014
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32015,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32015",
+    "fingerprint": "ebb78a2cd826fa90f6bd78eb09f57a83",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32015
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32015",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32015
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32016,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32016",
+    "fingerprint": "21efad29c22ce5119abd9c20bea05e25",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32016
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32016",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32016
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32017,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32017",
+    "fingerprint": "f0944a6f4cf31d9b231b5d5de7ab97e5",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32017
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32017",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32017
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32018,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32018",
+    "fingerprint": "45bd99b074a2999f7acbcfe8d41d1020",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32018
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32018",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32018
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32019,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32019",
+    "fingerprint": "3c0a55bbffbd5c808fdef4db3bb7a685",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32019
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32019",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32019
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32020,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32020",
+    "fingerprint": "be6817bae2df3337fb750218a8c43979",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32020
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32020",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32020
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32021,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32021",
+    "fingerprint": "45a398f9ae704fb4a67b19662f78d424",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32021
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32021",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32021
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32022,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32022",
+    "fingerprint": "d4739759dadc6d41f22931d8d76810f6",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32022
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32022",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32022
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32023,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32023",
+    "fingerprint": "8f77d2c483a0643d66e08b5fa209de4d",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32023
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32023",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32023
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32024,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32024",
+    "fingerprint": "2dc759a3ff9eb125216bbd07226b2657",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32024
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32024",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32024
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32025,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32025",
+    "fingerprint": "c1e3b64f7a18b8426d0743056e08af5c",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32025
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32025",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32025
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32026,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32026",
+    "fingerprint": "73cb7305032bd57d9234ff8ce501202e",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32026
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32026",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32026
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32027,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32027",
+    "fingerprint": "2a1ffdd3782d1907ffb7a7f148afda82",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32027
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32027",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32027
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32028,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32028",
+    "fingerprint": "38fdb25428e72b91a345aae432f2a059",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32028
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32028",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32028
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32029,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32029",
+    "fingerprint": "9963fe48e032ec8c20728e2f8e789859",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32029
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32029",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32029
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32030,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32030",
+    "fingerprint": "74afa16cb8b1ff227fcaf9c71519ca33",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32030
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32030",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32030
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32031,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32031",
+    "fingerprint": "f7e8a752cd5bb05f17c3bd2ba6b66286",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32031
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32031",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32031
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32032,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32032",
+    "fingerprint": "e574bb1480b1840a7d67a89229e7a234",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32032
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32032",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32032
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32033,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32033",
+    "fingerprint": "7c4af8f40af6c8c78f4155a805ec6f86",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32033
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32033",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32033
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32034,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32034",
+    "fingerprint": "b917063f0938181537382669334e346b",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32034
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32034",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32034
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32035,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32035",
+    "fingerprint": "cf892f1aa9e08e0eacb0746abd25f0c4",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32035
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32035",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32035
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32036,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32036",
+    "fingerprint": "8164eb0e54fd5bd644e5407025d9ffb2",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32036
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32036",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32036
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32037,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32037",
+    "fingerprint": "8d2667d7997ecca8b3470f80de241ac9",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32037
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32037",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32037
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32038,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32038",
+    "fingerprint": "b1a5129d4e3223518eec8093c99b0f1e",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32038
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32038",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32038
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32039,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32039",
+    "fingerprint": "8b929a1a2ad35e95506cf53499b30ac8",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32039
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32039",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32039
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32040,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32040",
+    "fingerprint": "faf57a8d31dcb0c793af03e8854dec5b",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32040
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32040",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32040
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32041,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32041",
+    "fingerprint": "04355b9eb56a7b627af9b10e4773a872",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32041
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32041",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32041
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32042,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32042",
+    "fingerprint": "c1676dda58981192a720776efc0ef710",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32042
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32042",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32042
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32043,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32043",
+    "fingerprint": "3d9668cdacf0afa51d44e74b82cb70f2",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32043
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32043",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32043
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32044,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32044",
+    "fingerprint": "5248bbca5069da94e4ece347be6b44aa",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32044
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32044",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32044
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32045,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32045",
+    "fingerprint": "796f41011993a5784fe316f79c3eabff",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32045
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32045",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32045
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32046,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32046",
+    "fingerprint": "e63edbaa85eea4b013888c43ae03ea41",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32046
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32046",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32046
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32047,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32047",
+    "fingerprint": "127f372e7d49b7d6e8c9054c8886ec0a",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32047
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32047",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32047
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32048,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32048",
+    "fingerprint": "1cc744ba2b375680f35c37d55ee6bae6",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32048
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32048",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32048
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32049,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32049",
+    "fingerprint": "057c6b84bed68d01ac54dcd78b97bf37",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32049
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32049",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32049
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32050,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32050",
+    "fingerprint": "e668f7df47795b558f418e7b38cda8bb",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32050
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32050",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32050
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32051,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32051",
+    "fingerprint": "de54d0cf262a96027cda66a58c53ca81",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32051
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32051",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32051
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32052,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32052",
+    "fingerprint": "af7dc513e983090bec517bac6313b363",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32052
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32052",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32052
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32053,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32053",
+    "fingerprint": "727fa7fdbdaa4e1eb089c02f011b5cf0",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32053
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32053",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32053
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32054,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32054",
+    "fingerprint": "b4bd380eeb2ef0f659bd27e5201d50c2",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32054
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32054",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32054
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32055,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32055",
+    "fingerprint": "d2c68cf4c2961dfcaf77a62fbc598c4c",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32055
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32055",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32055
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32056,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32056",
+    "fingerprint": "6279e8fe91384ef2cf71900991082288",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32056
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32056",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32056
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32057,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32057",
+    "fingerprint": "27b3f6560e065bf7de85eef21436cfd3",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32057
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32057",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32057
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32058,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32058",
+    "fingerprint": "f1c0df4b6aad4811c33c299fb7f8aa03",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32058
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32058",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32058
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32059,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32059",
+    "fingerprint": "019309ab71f5a52fc714c36eb568375e",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32059
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32059",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32059
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32060,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32060",
+    "fingerprint": "34b2d2d4f2c5431fb9e3b97e650a6f89",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32060
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32060",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32060
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32061,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32061",
+    "fingerprint": "56e14e16f29c5a493f4d3cf9f52fac0e",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32061
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32061",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32061
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32062,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32062",
+    "fingerprint": "72f1406b69a42d6914c8a5dac414dbf8",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32062
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32062",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32062
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32063,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32063",
+    "fingerprint": "f3e256f83e97fb3fc4d17cf817ebc493",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32063
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32063",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32063
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32064,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32064",
+    "fingerprint": "eed17e3ebdfbbc8c37ad7956e976fd02",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32064
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32064",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32064
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32065,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32065",
+    "fingerprint": "3769bb44a76dccd887bf49d201e5c373",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32065
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32065",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32065
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32066,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32066",
+    "fingerprint": "9c09c2bbce3b82f8d928d10e4fde052e",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32066
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32066",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32066
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32067,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32067",
+    "fingerprint": "16c4b8a099acaa7d59c411fb322a9b9f",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32067
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32067",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32067
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32068,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32068",
+    "fingerprint": "6d8fbdef60baaacef7af6b3703cef314",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32068
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32068",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32068
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32069,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32069",
+    "fingerprint": "8b24cd0352fb4deb485a8abfaafddb76",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32069
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32069",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32069
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32070,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32070",
+    "fingerprint": "0b161014459a6383affc161535158cb0",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32070
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32070",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32070
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32071,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32071",
+    "fingerprint": "a7ca38e429dd15219a72c46222f7d4c5",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32071
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32071",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32071
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32072,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32072",
+    "fingerprint": "2a1d16c28c87a3352ae4f280ccc9d1a8",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32072
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32072",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32072
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32073,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32073",
+    "fingerprint": "5e9d3a1c0046f6b9f2389c5c375b9241",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32073
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32073",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32073
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32074,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32074",
+    "fingerprint": "cac16b1da802b0a8eaa80ada2b722141",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32074
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32074",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32074
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32075,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32075",
+    "fingerprint": "57d9e092f3b151c68b45be6d0d8f62ab",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32075
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32075",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32075
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32076,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32076",
+    "fingerprint": "61ba15f8bf32b931e2a50d2c91aa2c14",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32076
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32076",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32076
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32077,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32077",
+    "fingerprint": "0e63f516f175e061f74d3b11a4b757e8",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32077
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32077",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32077
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32078,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32078",
+    "fingerprint": "d3d60e0e648c50db1773dba7fac747c8",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32078
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32078",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32078
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32079,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32079",
+    "fingerprint": "c269d3c170418e775ecb5d805b90a5fe",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32079
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32079",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32079
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32080,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32080",
+    "fingerprint": "c17f014814765e03c7e2a5f5bb04b743",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32080
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32080",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32080
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32081,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32081",
+    "fingerprint": "bc23d47aa4b500d26268ebae819cef6d",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32081
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32081",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32081
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32082,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32082",
+    "fingerprint": "c7e1992a551e1208c331e43e9e482e3f",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32082
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32082",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32082
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32083,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32083",
+    "fingerprint": "5d5e9e240c129cc8a567f80e5260f412",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32083
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32083",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32083
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32084,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32084",
+    "fingerprint": "362a2da9ad01ba1f5822e281e04ad6dc",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32084
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32084",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32084
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32085,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32085",
+    "fingerprint": "8316f29785c39c96dec26150d4c70ab2",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32085
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32085",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32085
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32086,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32086",
+    "fingerprint": "b35c9eacf2cd1ff97843509479dca901",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32086
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32086",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32086
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32087,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32087",
+    "fingerprint": "0fa5d8f0fd92685d0699fa5b2b9ca970",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32087
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32087",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32087
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32088,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32088",
+    "fingerprint": "bfbe72ec093a9f8b0af91216a11ba282",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32088
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32088",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32088
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32089,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32089",
+    "fingerprint": "92c923a50fee1478b778471713894594",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32089
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32089",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32089
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32090,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32090",
+    "fingerprint": "d040bc0b24cbfbfb624d30e3ac334606",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32090
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32090",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32090
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32091,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32091",
+    "fingerprint": "a443918f7bf5960bf3a253989fc918cc",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32091
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32091",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32091
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32092,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32092",
+    "fingerprint": "f6d1a4158fd2ab8a7d050b1c57d98b4e",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32092
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32092",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32092
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32093,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32093",
+    "fingerprint": "3d6b1c6eeb6c764397037345504fc770",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32093
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32093",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32093
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32094,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32094",
+    "fingerprint": "e9a18b5ebaa32ba0e6f211c21f3421b3",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32094
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32094",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32094
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32095,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32095",
+    "fingerprint": "fba46a352a15430d1cc51a619652f86a",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32095
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32095",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32095
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32096,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32096",
+    "fingerprint": "473edc378709362fa9ade2f6d243e4c6",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32096
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32096",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32096
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32097,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32097",
+    "fingerprint": "1e6231f8a5410ab81a04527203c95a37",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32097
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32097",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32097
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32098,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32098",
+    "fingerprint": "160b9661c5c49210aa6e1f8c1c0f4ea5",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32098
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32098",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32098
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32099,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32099",
+    "fingerprint": "b9baccefbf0408518239b727b193c363",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32099
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32099",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32099
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "confirmation",
+    "status": "reserved_not_used",
+    "purpose": "p1_rule_confirm_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 32100,
+    "key": "v2:p1_rule_confirm_v1:run=0:worker=0:episode=0:scenario=32100",
+    "fingerprint": "cda90e1e8ede489155d0fbef5799f87b",
+    "root_entropy": [
+      2,
+      213749270,
+      0,
+      0,
+      0,
+      1,
+      32100
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_rule_confirm_v1_bangbang:run=0:worker=0:episode=0:scenario=32100",
+    "random_switch_entropy": [
+      2,
+      2704287887,
+      0,
+      0,
+      0,
+      1,
+      32100
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50001,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50001",
+    "fingerprint": "b96cb707c8a126b1046218bab38b2a5e",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50001
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50001",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50001
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50002,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50002",
+    "fingerprint": "ab021fb8e0628f4d896d1440d668e544",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50002
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50002",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50002
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50003,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50003",
+    "fingerprint": "faff1fe6366422159b0029f303d26d85",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50003
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50003",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50003
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50004,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50004",
+    "fingerprint": "4c01a7379d11eb9d39f479be6f936100",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50004
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50004",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50004
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50005,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50005",
+    "fingerprint": "a84105f149f54e45e6c6d7116a2a369c",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50005
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50005",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50005
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50006,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50006",
+    "fingerprint": "2a1a4144a6be08796fc3130b68efe160",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50006
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50006",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50006
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50007,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50007",
+    "fingerprint": "544c121e44e703d55f81ddfe8fa27243",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50007
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50007",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50007
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50008,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50008",
+    "fingerprint": "02ed709156305fb193fbff9a0ba85898",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50008
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50008",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50008
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50009,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50009",
+    "fingerprint": "aab549d88449c7ed0c04307205cf30f7",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50009
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50009",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50009
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50010,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50010",
+    "fingerprint": "154544d3557ed6b00a6d548b2c5c8b36",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50010
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50010",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50010
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50011,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50011",
+    "fingerprint": "586243c2794f3d0fb658886fafcf7b0e",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50011
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50011",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50011
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50012,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50012",
+    "fingerprint": "4e9f90369e77870d804c84415d12f088",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50012
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50012",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50012
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50013,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50013",
+    "fingerprint": "4081b01f7ff369baa03da34f25f7266f",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50013
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50013",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50013
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50014,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50014",
+    "fingerprint": "ab6d8712aa942ea2eeb5f782bf8e9d8d",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50014
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50014",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50014
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50015,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50015",
+    "fingerprint": "725dc3dde1282b78a123faf7620e4c9b",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50015
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50015",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50015
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50016,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50016",
+    "fingerprint": "96f5ee72ee6efbb483fa99e89aca38b8",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50016
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50016",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50016
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50017,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50017",
+    "fingerprint": "c1a9de6710b8f847226c1e5a8b1f318b",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50017
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50017",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50017
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50018,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50018",
+    "fingerprint": "5961ed0a4d64afd5a7afe8d660675b53",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50018
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50018",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50018
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50019,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50019",
+    "fingerprint": "0bdaaa4d45b28282fa56e14664c554de",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50019
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50019",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50019
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50020,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50020",
+    "fingerprint": "58651d7d327cc838e6ba300296aea5be",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50020
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50020",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50020
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50021,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50021",
+    "fingerprint": "4e43da9d58259d8a32b1c7e972b57b48",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50021
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50021",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50021
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50022,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50022",
+    "fingerprint": "5d3deb1f38342835c1d9a9c296d4bfc5",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50022
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50022",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50022
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50023,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50023",
+    "fingerprint": "7887a1a4c6ac073547f23e1910dd9b36",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50023
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50023",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50023
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50024,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50024",
+    "fingerprint": "30f1dac303d41e42b8ee2b5a61e19068",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50024
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50024",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50024
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50025,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50025",
+    "fingerprint": "e37bb427ed996421d36de79081d3a612",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50025
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50025",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50025
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50026,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50026",
+    "fingerprint": "914f15f0ee45d9c438db87ae9cdc0bbd",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50026
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50026",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50026
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50027,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50027",
+    "fingerprint": "7bd238d78944513d37b5dd6dbc59dffc",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50027
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50027",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50027
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50028,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50028",
+    "fingerprint": "61394691458a4610b0cee62b52fdca1e",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50028
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50028",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50028
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50029,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50029",
+    "fingerprint": "da46d4335e6f11c55ec37778a7479816",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50029
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50029",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50029
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50030,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50030",
+    "fingerprint": "4a98c43c59d4ca649ba9c66a6f8ff556",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50030
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50030",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50030
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50031,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50031",
+    "fingerprint": "9dd0422e2919c927dc6ff6d950dc07db",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50031
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50031",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50031
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50032,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50032",
+    "fingerprint": "0970639317a66663d50e70302df365c7",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50032
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50032",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50032
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50033,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50033",
+    "fingerprint": "9e73a7486153b8c3fbac18d342cb3bdb",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50033
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50033",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50033
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50034,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50034",
+    "fingerprint": "dbdbc8a7f47cafc7a4d3fe37aaffbb54",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50034
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50034",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50034
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50035,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50035",
+    "fingerprint": "d139ed798198f750b07b5532fe7e7439",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50035
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50035",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50035
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50036,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50036",
+    "fingerprint": "9d80d6e6797bb1a3775305c75406b17c",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50036
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50036",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50036
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50037,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50037",
+    "fingerprint": "2bbd0fc931b7d486e7bbc278a9e51572",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50037
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50037",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50037
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50038,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50038",
+    "fingerprint": "74c6083743f4d4443f79bfc9a393a004",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50038
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50038",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50038
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50039,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50039",
+    "fingerprint": "7c98f63ba49cb7ebe5fa11d20892690c",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50039
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50039",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50039
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50040,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50040",
+    "fingerprint": "f771f94fe0ee5a45d99bfd39a8bcab1f",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50040
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50040",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50040
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50041,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50041",
+    "fingerprint": "7dad80184fdc5da740c8e2c064bfce1c",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50041
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50041",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50041
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50042,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50042",
+    "fingerprint": "b611882ef5fe2ac2288d29239ee6fb69",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50042
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50042",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50042
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50043,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50043",
+    "fingerprint": "aafa7a1f008e9ff84bcb02d5c889b58f",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50043
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50043",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50043
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50044,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50044",
+    "fingerprint": "5b2cf5e7a850349056f85fd0b80fb8b7",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50044
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50044",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50044
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50045,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50045",
+    "fingerprint": "fd22d1140b236f5106a28d6021b48528",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50045
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50045",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50045
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50046,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50046",
+    "fingerprint": "d277f04b567d49b6ad4f8f3e74595ade",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50046
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50046",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50046
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50047,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50047",
+    "fingerprint": "141429d57cca44b86ee0dce254e46fd0",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50047
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50047",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50047
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50048,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50048",
+    "fingerprint": "0771fba45d6f24cb5312734a69e0dcfc",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50048
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50048",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50048
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50049,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50049",
+    "fingerprint": "48b98b8fac700a8aa18205c049c4b1d7",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50049
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50049",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50049
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50050,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50050",
+    "fingerprint": "f96f3b05a97cc68e2c6be8d4c67879d4",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50050
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50050",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50050
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50051,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50051",
+    "fingerprint": "fb784077e29099bdfba65a2359814d16",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50051
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50051",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50051
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50052,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50052",
+    "fingerprint": "8924492e1d6b9cd7c5c46a612dfff8b2",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50052
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50052",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50052
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50053,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50053",
+    "fingerprint": "0becdabae499ab278591f4213a1b01f1",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50053
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50053",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50053
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50054,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50054",
+    "fingerprint": "e36fb8a70f10a3cf1993fd7384eff281",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50054
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50054",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50054
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50055,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50055",
+    "fingerprint": "b5c343cce35c8d006e95afb0365833ac",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50055
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50055",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50055
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50056,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50056",
+    "fingerprint": "c06ce67a658b878ccc1212ee7edbea24",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50056
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50056",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50056
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50057,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50057",
+    "fingerprint": "c31d347958eb5ca49eaae73a9b98d012",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50057
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50057",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50057
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50058,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50058",
+    "fingerprint": "485a29d5984a91873167e63cd49c4aa5",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50058
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50058",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50058
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50059,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50059",
+    "fingerprint": "ec2e5a91e5538ebd29325b95675bef3f",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50059
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50059",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50059
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50060,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50060",
+    "fingerprint": "7808b1bdbc3379f9a5854b5ab5090cd1",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50060
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50060",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50060
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50061,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50061",
+    "fingerprint": "807676c3957f19c2c46b3cd0f043f9ca",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50061
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50061",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50061
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50062,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50062",
+    "fingerprint": "3723e6747e57a151a33cbc43dffe7fbf",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50062
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50062",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50062
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50063,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50063",
+    "fingerprint": "dff517edb8fec352a9bc54158c1076fe",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50063
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50063",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50063
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50064,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50064",
+    "fingerprint": "104f8395c4c7752dc81778e1d38f1ac5",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50064
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50064",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50064
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50065,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50065",
+    "fingerprint": "50f4403552a545c71fcf8204e292b1d7",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50065
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50065",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50065
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50066,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50066",
+    "fingerprint": "f0f3116a7799bd7ee6330c18cc877dea",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50066
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50066",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50066
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50067,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50067",
+    "fingerprint": "51e4e7b3a4a0dd1042a554ee05bfc8c1",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50067
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50067",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50067
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50068,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50068",
+    "fingerprint": "a71808287d75ecc77c59ede6cad7dfc9",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50068
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50068",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50068
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50069,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50069",
+    "fingerprint": "d04537bacf93dd7a5a70e94837c2d73b",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50069
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50069",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50069
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50070,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50070",
+    "fingerprint": "3627ef9ffe023de0f5912b775aadc74d",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50070
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50070",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50070
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50071,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50071",
+    "fingerprint": "5cff7a1270626050f009483a28f9c0e7",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50071
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50071",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50071
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50072,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50072",
+    "fingerprint": "a9a1cc3487b8e942cd4f000b61fa3f8b",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50072
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50072",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50072
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50073,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50073",
+    "fingerprint": "e236ce73f8ab4243e7aca6bc772d2744",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50073
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50073",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50073
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50074,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50074",
+    "fingerprint": "394a5c66b4ac3b25f9dc17a3c97f8ec6",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50074
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50074",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50074
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50075,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50075",
+    "fingerprint": "696a3052e40adb9f9106f76ac2e1f5fb",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50075
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50075",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50075
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50076,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50076",
+    "fingerprint": "32d1ba3d8e4b7fbacedfbe68876cf96e",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50076
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50076",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50076
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50077,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50077",
+    "fingerprint": "29fee1ef3aad059ff46e6835471c380d",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50077
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50077",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50077
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50078,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50078",
+    "fingerprint": "5418d1fc2ca8cb6b68021f25022b2ec5",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50078
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50078",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50078
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50079,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50079",
+    "fingerprint": "e308759b92b47f21665d0f230ab1eaa2",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50079
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50079",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50079
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50080,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50080",
+    "fingerprint": "b5e5615191f0443f9108630f1b2e5a51",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50080
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50080",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50080
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50081,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50081",
+    "fingerprint": "828fb2d553a2719bb1d75e6308a213b0",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50081
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50081",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50081
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50082,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50082",
+    "fingerprint": "11d285865a7413110e9edde80def1008",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50082
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50082",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50082
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50083,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50083",
+    "fingerprint": "a582e5018e182139498392dfe9cc5961",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50083
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50083",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50083
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50084,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50084",
+    "fingerprint": "1e796d803c2c66921626a0029ea3fbe8",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50084
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50084",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50084
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50085,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50085",
+    "fingerprint": "68bb4ea25838767a494bd109d227ed97",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50085
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50085",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50085
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50086,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50086",
+    "fingerprint": "b83e618678dbc5b9aea7bafbf2f91c9d",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50086
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50086",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50086
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50087,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50087",
+    "fingerprint": "637aa955c52d66a7e77a8b70789fd4d8",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50087
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50087",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50087
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50088,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50088",
+    "fingerprint": "22dc6bad274b4b4087c5d2013e02b030",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50088
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50088",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50088
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50089,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50089",
+    "fingerprint": "58cbb72e2e769e5c7620411db8a45ef4",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50089
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50089",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50089
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50090,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50090",
+    "fingerprint": "3d5b30d7a3d6a60ac126c2f95f4c35f4",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50090
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50090",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50090
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50091,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50091",
+    "fingerprint": "060a43c4b9c60378e70f891af75d5927",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50091
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50091",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50091
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50092,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50092",
+    "fingerprint": "ec6cb9bf8686d828fd656df20e66ccfa",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50092
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50092",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50092
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50093,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50093",
+    "fingerprint": "55b2884f1936ed15ccf7e386bd6a6f4a",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50093
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50093",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50093
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50094,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50094",
+    "fingerprint": "30dcf5c609515abf7620c7e549dfe7ba",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50094
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50094",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50094
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50095,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50095",
+    "fingerprint": "7ec9b1b589c2eec5f0d68abbe7694910",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50095
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50095",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50095
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50096,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50096",
+    "fingerprint": "045b37a8465ddaaabe2c0aa4a0bba51a",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50096
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50096",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50096
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50097,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50097",
+    "fingerprint": "7574f77cf05bb705a6b41aa6bb3846f4",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50097
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50097",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50097
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50098,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50098",
+    "fingerprint": "475cbdc75124d6e1a76327688c0f2400",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50098
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50098",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50098
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50099,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50099",
+    "fingerprint": "c387b35c6c7a7b5bf18af3a3954d471a",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50099
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50099",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50099
+    ],
+    "random_switch_child": 0
+  },
+  {
+    "block": "final",
+    "status": "reserved_not_used",
+    "purpose": "p1_final_v1",
+    "run_seed": 0,
+    "worker_id": 0,
+    "episode_id": 0,
+    "scenario_id": 50100,
+    "key": "v2:p1_final_v1:run=0:worker=0:episode=0:scenario=50100",
+    "fingerprint": "c7266fcb9935ddc6953c38bf3e909b9b",
+    "root_entropy": [
+      2,
+      2087002038,
+      0,
+      0,
+      0,
+      1,
+      50100
+    ],
+    "rng": "numpy.random.Generator(PCG64)",
+    "child_order": [
+      "channel",
+      "observation",
+      "attack_location_error"
+    ],
+    "random_switch_key": "v2:p1_final_v1_bangbang:run=0:worker=0:episode=0:scenario=50100",
+    "random_switch_entropy": [
+      2,
+      743608361,
+      0,
+      0,
+      0,
+      1,
+      50100
+    ],
+    "random_switch_child": 0
+  }
+]

@@ -1,0 +1,264 @@
+{
+  "delivery_date": "2026-09-27",
+  "integrity_checks": {
+    "attack_episode_rules_v1": {
+      "episodes": 720,
+      "steps": 72000,
+      "all_completed": true,
+      "hard_violations": 0,
+      "max_willie_power_w": 1.0,
+      "max_willie_energy_j": 6.0,
+      "scenario_range": [
+        30001,
+        30030
+      ],
+      "final_test_used": false
+    },
+    "attack_privileged_fine_v1": {
+      "episodes": 120,
+      "steps": 12000,
+      "all_completed": true,
+      "hard_violations": 0,
+      "max_willie_power_w": 1.0,
+      "max_willie_energy_j": 5.618860000000001,
+      "scenario_range": [
+        30001,
+        30030
+      ],
+      "final_test_used": false
+    }
+  },
+  "note": "Defense model hashes are in episode manifests; frozen models remain in the Task B result directory.",
+  "files": [
+    {
+      "path": "src/securelink/__init__.py",
+      "bytes": 192,
+      "sha256": "a48b188de05254fd6a8f7f948d32af7b0d55097f27b0436af6a49f3ad0ea4df7"
+    },
+    {
+      "path": "src/securelink/config.py",
+      "bytes": 2210,
+      "sha256": "613e3f000431a4755b2a5eaf87e553b747299d109254789fa0f47de3697b51ed"
+    },
+    {
+      "path": "src/securelink/environment.py",
+      "bytes": 44076,
+      "sha256": "b237240516e8c05ff6264fc802544bab577fd34143ddc6d670189373bdf38efe"
+    },
+    {
+      "path": "src/securelink/evaluation.py",
+      "bytes": 3225,
+      "sha256": "fc8eb77d26502de06476243d62af1a025d42f663653a90f4709343c089d81adf"
+    },
+    {
+      "path": "src/securelink/geometry.py",
+      "bytes": 6312,
+      "sha256": "f7e0cdced5658696bc9c4555b5300e21fae2d597447fa2f220a79a5a9c076125"
+    },
+    {
+      "path": "src/securelink/physics.py",
+      "bytes": 5485,
+      "sha256": "10937016bf5f1b056b8862b65e426dd8e6377c32d8d2089c1d7ed15a7183d73d"
+    },
+    {
+      "path": "src/securelink/seeding.py",
+      "bytes": 1752,
+      "sha256": "9ada41d6eb70f4e89d46e54a7b0d5807648ca8b32c20e7f7477bb3d0d8454ccd"
+    },
+    {
+      "path": "src/securelink/system_info.py",
+      "bytes": 1528,
+      "sha256": "15a620534723a93fb92349f09bb7a80347d6d393ec375fb78216834a2c6cb07c"
+    },
+    {
+      "path": "configs/acceptance.yaml",
+      "bytes": 400,
+      "sha256": "051edfda53a3215a9a40a183fc229427cef5e8c5f0a3a088bb70e988463738a9"
+    },
+    {
+      "path": "configs/base.yaml",
+      "bytes": 1735,
+      "sha256": "b7b087bfd32e5cc11c5673806d905f93b51c6a2354ae4f216cb6a7741cf6071d"
+    },
+    {
+      "path": "configs/controlled_rerun.yaml",
+      "bytes": 625,
+      "sha256": "f6f523a7bdd09cfc4b8b01ce9fc70dc9e0656e08cd4d98df0dfbdaf3081863f7"
+    },
+    {
+      "path": "configs/motion_residual_v1.yaml",
+      "bytes": 327,
+      "sha256": "e644d45f959e0b5fdd86184b32062e0ce0d7918063f0f3a81d6ad071ebe6b492"
+    },
+    {
+      "path": "configs/power_mapping_legacy.yaml",
+      "bytes": 160,
+      "sha256": "7430db255d728baa768549b6eef12c11732db29dcab8268021ad19015c753900"
+    },
+    {
+      "path": "configs/prototype.yaml",
+      "bytes": 427,
+      "sha256": "333ed940296c83a9254245364ec39dc0fff407249ee49f0a05022b20749e1fe7"
+    },
+    {
+      "path": "configs/smoke.yaml",
+      "bytes": 252,
+      "sha256": "1036d7d579144c0064d25f2504df5ddfb15e39e2ab477414c9e5cdcba2502a34"
+    },
+    {
+      "path": "scripts/run_attack_pressure_scan.py",
+      "bytes": 12767,
+      "sha256": "ad951b1223be7a45a2e1756bd8e9eda37067771c744eb329de9e9cd73919987a"
+    },
+    {
+      "path": "scripts/run_attack_rule_episodes.py",
+      "bytes": 8760,
+      "sha256": "e490fc23252622263a09501ea1f7cdc8a83b0f2d1413b523f39e66835ea15c13"
+    },
+    {
+      "path": "scripts/run_attack_privileged_fine.py",
+      "bytes": 4884,
+      "sha256": "db32ab1bb0f7e5daada4b66d3ef9a6b2ae1917c135ccb71fef40ba3623c82b12"
+    },
+    {
+      "path": "scripts/plot_attack_pressure.py",
+      "bytes": 4221,
+      "sha256": "a786a56f99e16aa33e2eb6ca002d607e760d3bcb518571ccdb20db0f814ce34e"
+    },
+    {
+      "path": "scripts/freeze_attack_pressure.py",
+      "bytes": 4279,
+      "sha256": "a6114eb83d7156313f38c4caaf2011808a3c7a0234a0acf8145b1c05c7aae4c2"
+    },
+    {
+      "path": "archive/attack_pressure_v1/attack_pressure_v1_source.zip",
+      "bytes": 33009,
+      "sha256": "5f1a0fba55391fac021d692e8eae8a76761d9debe117f6446b3033cdfef06771"
+    },
+    {
+      "path": "results/attack_pressure_scan_v1/metadata.json",
+      "bytes": 3475,
+      "sha256": "137b007e2a92e5ee750c1ad03e1e6b8754cde88dda98ab325574065bd1302336"
+    },
+    {
+      "path": "results/attack_pressure_scan_v1/nominal_low_power_scan.png",
+      "bytes": 83795,
+      "sha256": "cdf93f304f712d9e5deb9380bb2c25d5fdd30e748a944cc50770708628dfbc38"
+    },
+    {
+      "path": "results/attack_pressure_scan_v1/raw_paired_channel_gains.npz",
+      "bytes": 6906463,
+      "sha256": "aa39b3040cdfda5f675da4e2e1c0a0893e50dfddfe5b685b5b9ab26b8d89c5cb"
+    },
+    {
+      "path": "results/attack_pressure_scan_v1/resolved_config.yaml",
+      "bytes": 3008,
+      "sha256": "f6393eba3d6187068e1614d99170fc3acb498daa5ea764f7f971a3376277e0eb"
+    },
+    {
+      "path": "results/attack_pressure_scan_v1/scan_groups.csv",
+      "bytes": 6293,
+      "sha256": "446fe0ade2b4660efb5522bab5940f2b6f1931fcad21043ede158ad609804d33"
+    },
+    {
+      "path": "results/attack_pressure_scan_v1/scan_points.csv",
+      "bytes": 759173,
+      "sha256": "b717763f0a275b94f372eae0fa8b74b95fb746bd170f54c4bd8a2af7da9bd936"
+    },
+    {
+      "path": "results/attack_pressure_scan_v1/self_interference_sensitivity.png",
+      "bytes": 85938,
+      "sha256": "433f7a010a50e4e5e5597643096fede66cf6b63a8f347d9f32347a267aebc5f7"
+    },
+    {
+      "path": "results/attack_pressure_scan_v1/validation_paired_samples.csv.gz",
+      "bytes": 3146987,
+      "sha256": "6ffbecd87efaba40908eb08ca16629d5bde342f4c40e7d4ef74bb0c056b0fdac"
+    },
+    {
+      "path": "results/attack_episode_rules_v1/manifest.json",
+      "bytes": 1615,
+      "sha256": "8ff44df4f730dfa23e29716707165443354ac1f59c0d259feb8fdcb84b9f9e66"
+    },
+    {
+      "path": "results/attack_episode_rules_v1/paired_episode_differences.csv",
+      "bytes": 58074,
+      "sha256": "a9dc362a1768e72370145fea456c96cd851c197755b6b38dbf06842875f1b0f4"
+    },
+    {
+      "path": "results/attack_episode_rules_v1/paired_rule_intervals.csv",
+      "bytes": 1309,
+      "sha256": "12aaf355036325455ff5a7111e3301f4669e8e24eb89aa8f6502c0acb93187c9"
+    },
+    {
+      "path": "results/attack_episode_rules_v1/phase_summary.csv",
+      "bytes": 2571,
+      "sha256": "e66d92e9b0e5df3f8f871ab027e4dad90638031e7e106e46413689a23ca90ec0"
+    },
+    {
+      "path": "results/attack_episode_rules_v1/raw_episodes.csv",
+      "bytes": 320086,
+      "sha256": "55a7b313df972e8f93573fe6fd39914423a76086a279294f7b32f6a1149c39f5"
+    },
+    {
+      "path": "results/attack_episode_rules_v1/raw_steps.csv",
+      "bytes": 75641785,
+      "sha256": "f18259497cbc9cb74d4e0b8bfbe6397b3bff9ecd40117c5b9ce30ba9d7fa255d"
+    },
+    {
+      "path": "results/attack_episode_rules_v1/resolved_config.yaml",
+      "bytes": 3008,
+      "sha256": "f6393eba3d6187068e1614d99170fc3acb498daa5ea764f7f971a3376277e0eb"
+    },
+    {
+      "path": "results/attack_episode_rules_v1/rule_attack_pressure.png",
+      "bytes": 112516,
+      "sha256": "0c68293be36807254d9864eb1544ce587906f621d353420fb27f9d037e3a40f8"
+    },
+    {
+      "path": "results/attack_episode_rules_v1/rule_summary.csv",
+      "bytes": 1848,
+      "sha256": "61571c2d4b97721323ff7814aead6a855e68a3496e0b09a40713b30cab578622"
+    },
+    {
+      "path": "results/attack_episode_rules_v1/seed_rule_summary.csv",
+      "bytes": 3631,
+      "sha256": "aaa1ea6026ad6f00b8c4dc273d83cda0561430530f1b8e9eb9dfa9d710485ccb"
+    },
+    {
+      "path": "results/attack_privileged_fine_v1/manifest.json",
+      "bytes": 1072,
+      "sha256": "2279697b94ce8842171a663cb72ec475462988db2590454f4913249822a3f255"
+    },
+    {
+      "path": "results/attack_privileged_fine_v1/paired_low_minus_fine.csv",
+      "bytes": 9695,
+      "sha256": "ff0648f3857bd7796869f7786b8e0966ee4aaceb4a58c3d0e193aab427458d5d"
+    },
+    {
+      "path": "results/attack_privileged_fine_v1/paired_low_minus_fine_intervals.csv",
+      "bytes": 292,
+      "sha256": "d9bfd74e667797656a52ae7c815ae7ad698f786d907b327d2b37a40274a7a599"
+    },
+    {
+      "path": "results/attack_privileged_fine_v1/raw_episodes.csv",
+      "bytes": 58006,
+      "sha256": "28154d9fa4495b1f987e0e948a2f44646ab3c8763757fd9cd2345d1354231e08"
+    },
+    {
+      "path": "results/attack_privileged_fine_v1/raw_steps.csv",
+      "bytes": 12967370,
+      "sha256": "744789dd323e8735ccbb4fe119e8777ac3c0232bb113012cbb3eff6fbf75e23f"
+    },
+    {
+      "path": "results/attack_privileged_fine_v1/resolved_config.yaml",
+      "bytes": 3008,
+      "sha256": "f6393eba3d6187068e1614d99170fc3acb498daa5ea764f7f971a3376277e0eb"
+    },
+    {
+      "path": "results/attack_privileged_fine_v1/summary.csv",
+      "bytes": 386,
+      "sha256": "791634d0e1f53273ea6f3f3b3288f74a2f7d4ff0854291b92be3c02d57be6b76"
+    }
+  ]
+}

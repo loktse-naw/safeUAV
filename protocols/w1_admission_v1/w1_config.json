@@ -1,0 +1,193 @@
+{
+  "protocol_id": "p1-w1-admission-v1",
+  "status": "protocol_locked_no_training_authorization",
+  "admission": "limited_feasibility_protocol_prepared",
+  "config_digest": "e9161b54ca242e4f",
+  "white_list": "仅时隙序号、剩余时隙、自身预算/峰值、带 25 m σ 的 Alice 位置估计。",
+  "position_contract": {
+    "delay_slots": 0,
+    "sigma_m": 25,
+    "coordinates": "current_pre_move_communication_position",
+    "each_real_slot_calls_allowed_observation_once": true,
+    "random_switch_rng_separate_from_location_rng": true
+  },
+  "models": {
+    "11001": {
+      "path": "results/motion_residual_v1_32768/models/B10_seed11001.zip",
+      "sha256": "382f6291c9ff61652e5e03cdce41d2d99cc5fde15fcbc5401729fa297c9f4e26",
+      "training_transitions": 32768,
+      "checkpoint": "budget_end_no_selection"
+    },
+    "11002": {
+      "path": "results/motion_residual_v1_32768/models/B10_seed11002.zip",
+      "sha256": "e5545922a0a8c8d81bb5be125a59ab7362e6e58547dd98a41eb1dc305fbbb4a9",
+      "training_transitions": 32768,
+      "checkpoint": "budget_end_no_selection"
+    },
+    "11003": {
+      "path": "results/motion_residual_v1_32768/models/B10_seed11003.zip",
+      "sha256": "b371255cb309de8e2889c4aec06b8f4de1f41b92677b753f41480abc01885ff2",
+      "training_transitions": 32768,
+      "checkpoint": "budget_end_no_selection"
+    }
+  },
+  "frozen_rule": {
+    "id": "T10",
+    "family": "time_piecewise",
+    "outer_w": 0.004,
+    "middle_w": 0.02,
+    "cut_slots": [
+      33,
+      67
+    ]
+  },
+  "attack_run_seeds": [
+    21001,
+    21002,
+    21003
+  ],
+  "config_candidates": 1,
+  "performance_selection": false,
+  "observation": {
+    "order": [
+      "slot/100",
+      "remaining_slots/100",
+      "willie_remaining_j/6",
+      "willie_peak_w/1",
+      "alice_x_est_m/1000",
+      "alice_y_est_m/1000"
+    ],
+    "dtype": "float32",
+    "coordinate_clip": false,
+    "history": false,
+    "vec_normalize": false
+  },
+  "action": {
+    "shape": [
+      1
+    ],
+    "box": [
+      -1,
+      1
+    ],
+    "z": "(clip(u,-1,1)+1)/2",
+    "requested_power": "0.001 * expm1(z * log1p(peak_w/0.001))",
+    "peak_w": 1.0,
+    "energy_cap_j": 6.0,
+    "tx_seconds": 0.2,
+    "executed_power": "min(requested_power,peak_w,remaining_j/0.2)"
+  },
+  "reward": {
+    "train": "-max(0,C_B-C_W)",
+    "source": "simulator_privileged_reward",
+    "failure_padding": 0.0,
+    "shaping": false,
+    "online_reward_history": false
+  },
+  "ppo": {
+    "implementation": "stable_baselines3.PPO",
+    "version": "2.7.0",
+    "policy": "MlpPolicy",
+    "policy_layers": [
+      64,
+      64
+    ],
+    "activation": "Tanh",
+    "ortho_init": true,
+    "optimizer": "Adam",
+    "optimizer_eps": 1e-05,
+    "log_std_init": 0.0,
+    "n_envs": 1,
+    "n_steps": 512,
+    "batch_size": 128,
+    "n_epochs": 5,
+    "learning_rate": 0.0003,
+    "gamma": 1.0,
+    "gae_lambda": 0.95,
+    "ent_coef": 0.01,
+    "clip_range": 0.2,
+    "clip_range_vf": null,
+    "normalize_advantage": true,
+    "vf_coef": 0.5,
+    "max_grad_norm": 0.5,
+    "use_sde": false,
+    "target_kl": null,
+    "device": "cpu",
+    "torch_threads": 1
+  },
+  "training": {
+    "per_run_sampler_calls_cap": 32768,
+    "all_runs_sampler_calls_cap": 98304,
+    "rollouts_per_run": 64,
+    "episodes_per_run_cap": 1000,
+    "scenario_schedule": "33001+zero_based_episode_index; no wrap or repeat",
+    "defender_schedule": "[11001,11002,11003][(episode_index+run_index)%3]",
+    "defender_deterministic": true,
+    "attack_stochastic": true,
+    "checkpoint": "after last update at exactly 32768 sampler calls; no performance checkpoint selection",
+    "partial_episode": "retain prefix without extra stepping; exclude from episode averages; count real steps",
+    "failure": "preserve zero-physical-step sampler calls separately; never count padded slots as transitions"
+  },
+  "evaluation": {
+    "attack_deterministic": true,
+    "defender_deterministic": true,
+    "rules": [
+      "T10",
+      "F01_low_0p002"
+    ],
+    "development_episodes": 450,
+    "development_slots_cap": 45000,
+    "feasibility_episodes": 1500,
+    "feasibility_slots_cap": 150000,
+    "no_selection_of_attack_runs": true,
+    "no_optional_privileged_replays": true
+  },
+  "precheck": {
+    "episode_cap": 30,
+    "sampler_calls_cap": 3000,
+    "labels": [
+      39001,
+      39010
+    ],
+    "purpose": "p1_w1_interface_check_v1",
+    "no_optimizer_steps": true
+  },
+  "statistics": {
+    "script": "statistics_v1.py::w1_primary",
+    "delta": 0.005,
+    "replicates": 10000,
+    "seed": 94301,
+    "shared_scenario_weights": true,
+    "resample_defenders": false,
+    "resample_attack_runs": false,
+    "primary": "mean T10 ASR - mean all three W1 runs ASR",
+    "success": "95% CI lower > delta; integrity passed"
+  },
+  "future_total_sampler_calls_cap": 296304,
+  "future_pool_generation": 0,
+  "current_actual_interactions": {
+    "train": 0,
+    "precheck": 0,
+    "development": 0,
+    "feasibility": 0,
+    "pool": 0,
+    "final": 0
+  },
+  "final_test": {
+    "status": "reserved_not_used",
+    "labels": [
+      50001,
+      50100
+    ],
+    "purpose": "p1_final_v1",
+    "actual_transitions": 0,
+    "inherited_task13_protocol": true
+  },
+  "execution_gate": "separate execution instruction; adapter/driver/ledger/statistic verification and source seal before first training reset",
+  "result_paths": {
+    "root": "results/w1_feasibility_v1",
+    "training": "training/raw_steps.csv + training/partial_episodes.csv",
+    "development": "development/raw_episodes.csv + development/raw_steps.csv",
+    "feasibility": "feasibility/raw_episodes.csv + feasibility/raw_steps.csv"
+  }
+}

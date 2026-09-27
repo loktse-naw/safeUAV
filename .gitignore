@@ -1,0 +1,28 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# ---- IDE / editor ----
+.idea/
+.vscode/
+
+# ---- Generated experiment outputs ----
+# These are reproducible run products and are far too large for GitHub
+# (previously ~2.4 GB, incl. single CSV files of 384-807 MB, which made
+# every `git push` fail with GH001 "Large files detected").
+# They stay on the local disk only; re-generate them with scripts/*.py.
+results/
+logs/
+tmp/
+artifacts/models/
+
+# ---- Result bundles / archives ----
+*.tar.gz
+
+# ---- OS noise ----
+Thumbs.db
+desktop.ini
+.DS_Store
