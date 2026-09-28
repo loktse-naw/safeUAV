@@ -1,0 +1,16 @@
+# 行尾策略：逐字节锁定
+#
+# 本项目对源文件与协议文件做「原始字节」SHA-256 断言，例如：
+#   run_w1_feasibility_v1.py : assert sha(ROOT/item["path"]) == item["sha256"]
+#   run_adaptive_rules_v1.py : assert sha(ROOT/info["path"]) == info["sha256"]
+#   freeze_information_protocol.py : input_manifest.json 记录每个文件的 sha256
+# 其中 sha() = hashlib.sha256(path.read_bytes()).hexdigest()
+#
+# 因此 Git 绝不能改动任何字节：若索引中存 LF、工作区是 CRLF，
+# 从 GitHub 克隆到 Linux 后会得到 LF，上述断言将全部失败。
+# 关闭全部行尾转换，让仓库保存的字节与生成哈希时的字节完全一致。
+
+* -text
+
+# 例外：shell 脚本必须保持 LF，否则在 Linux 上无法执行（这些文件不被哈希断言）。
+*.sh text eol=lf
